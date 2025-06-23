@@ -1,0 +1,2347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteingresos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteingresos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|c:\\users\\jeyso\\downloads\\ta\\front-end\\softwa\\pantallas\\direccionenvio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\direccionenvio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\direccionenvio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\direccionenvio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\direccionenvio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\direccionenvio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\paginainicio.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\paginainicio.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|c:\\users\\jeyso\\downloads\\ta\\front-end\\softwa\\pantallas\\masterpages\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\paginainicio.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\paginainicio.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\paginamaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\paginamaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\paginainicio.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\paginainicio.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\autentificacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\autentificacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\autentificacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\autentificacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\inicioadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\inicioadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\paginainicio.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\paginainicio.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\autentificacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\autentificacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\cabecera.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\cabecera.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\cabecera.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\cabecera.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softciapasabusiness\\usuarios\\juridicabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|solutionrelative:softciapasabusiness\\usuarios\\juridicabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softciapasabusiness\\usuarios\\direccionbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|solutionrelative:softciapasabusiness\\usuarios\\direccionbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softciapasabusiness\\usuarios\\administradorbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|solutionrelative:softciapasabusiness\\usuarios\\administradorbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softciapasabusiness\\pedidos\\pedidoitembo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|solutionrelative:softciapasabusiness\\pedidos\\pedidoitembo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softciapasabusiness\\pedidos\\pedidobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F945C-1710-47BB-8D05-68AE540FA12B}|SoftCiapasaBusiness\\SoftCiapasaBusiness.csproj|solutionrelative:softciapasabusiness\\pedidos\\pedidobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\perfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\carrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregardetallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregardetallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\detallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\detallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaadministradores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaadministradores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\resumendelpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\resumendelpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\registrarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\registrarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\especificacionesproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\especificacionesproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\recuperarcontrasena.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\recuperarcontrasena.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\direccionesguardadas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\direccionesguardadas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\datosdepago.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\datosdepago.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaadministradores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaadministradores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\detallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\detallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregardetallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregardetallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarcliente.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarcliente.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregardetallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregardetallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\paginamaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\datosdepago.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\datosdepago.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\resumendelpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\resumendelpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\registrarusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\registrarusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\recuperarcontrasena.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\recuperarcontrasena.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\productos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\productos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\especificacionesproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\especificacionesproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\direccionesguardadas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\direccionesguardadas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\carrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteclientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteclientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteingresos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteingresos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteingresos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteingresos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteingresos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteingresos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteclientes.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteclientes.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\reporteclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\reporteclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaproductos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaproductos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listapedidos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listapedidos.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listapedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listapedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaclientes.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaclientes.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaclientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaclientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaadministradores.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaadministradores.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaadministradores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaadministradores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\listaadministradores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\listaadministradores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\inicioadmin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\inicioadmin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\inicioadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\inicioadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\inicioadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\inicioadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarproducto.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarproducto.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarpedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarpedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\eliminarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\eliminarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarproducto.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarproducto.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarpedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarpedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\editarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\editarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\detallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\detallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\detallepedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\detallepedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\detallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\detallepedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarproducto.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarproducto.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarpedido.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarpedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarpedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarpedido.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregarcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregarcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\admin\\agregardetallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\admin\\agregardetallepedido.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\autentificacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\autentificacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\siteadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\siteadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\cabecera.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\cabecera.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\recuperarcontrasena.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\recuperarcontrasena.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\registrarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\registrarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\siteadmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\siteadmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\datosdepago.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftWA.csproj|solutionrelative:softwa\\pantallas\\datosdepago.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\softwa\\pantallas\\masterpages\\siteadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC197A53-6614-4FC7-A5DC-9DED4C423546}|SoftWA\\SoftCiapasaWA.csproj|solutionrelative:softwa\\pantallas\\masterpages\\siteadmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaginaMaster.Master",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:20:18.846Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginaMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:26:51.355Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Perfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:39:14.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PedidoItemBO.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Pedidos\\PedidoItemBO.cs",
+              "RelativeDocumentMoniker": "SoftCiapasaBusiness\\Pedidos\\PedidoItemBO.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Pedidos\\PedidoItemBO.cs",
+              "RelativeToolTip": "SoftCiapasaBusiness\\Pedidos\\PedidoItemBO.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T02:20:22.232Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DireccionEnvio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:02:42.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteClientes.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReporteProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteIngresos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:30.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:23:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:22:55.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Perfil.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Perfil.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Perfil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DireccionEnvio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DireccionEnvio.aspx.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:17:54.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DireccionEnvio.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionEnvio.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DireccionEnvio.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionEnvio.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DireccionEnvio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:57:55.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaginaInicio.master",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T02:18:02.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Carrito.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Carrito.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Carrito.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaginaInicio.master.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:19:38.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Autentificacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:14:41.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaginaInicio.master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:34:40.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Autentificacion.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Autentificacion.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Autentificacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AgregarCliente.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InicioAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:30.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaginaInicio.master.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\PaginaInicio.master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:37:01.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cabecera.master.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:14:35.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Autentificacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Autentificacion.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:20:44.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cabecera.master.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\Cabecera.master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:42:54.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DireccionBO.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Usuarios\\DireccionBO.cs",
+              "RelativeDocumentMoniker": "SoftCiapasaBusiness\\Usuarios\\DireccionBO.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Usuarios\\DireccionBO.cs",
+              "RelativeToolTip": "SoftCiapasaBusiness\\Usuarios\\DireccionBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:56:44.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PedidoBO.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Pedidos\\PedidoBO.cs",
+              "RelativeDocumentMoniker": "SoftCiapasaBusiness\\Pedidos\\PedidoBO.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Pedidos\\PedidoBO.cs",
+              "RelativeToolTip": "SoftCiapasaBusiness\\Pedidos\\PedidoBO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:39:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JuridicaBO.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Usuarios\\JuridicaBO.cs",
+              "RelativeDocumentMoniker": "SoftCiapasaBusiness\\Usuarios\\JuridicaBO.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Usuarios\\JuridicaBO.cs",
+              "RelativeToolTip": "SoftCiapasaBusiness\\Usuarios\\JuridicaBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:35:34.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdministradorBO.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Usuarios\\AdministradorBO.cs",
+              "RelativeDocumentMoniker": "SoftCiapasaBusiness\\Usuarios\\AdministradorBO.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftCiapasaBusiness\\Usuarios\\AdministradorBO.cs",
+              "RelativeToolTip": "SoftCiapasaBusiness\\Usuarios\\AdministradorBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:03:44.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Carrito.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:19:06.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Carrito.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Carrito.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:38:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Perfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Perfil.aspx.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAowAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:16:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "ReporteProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:52:00.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "ReporteClientes.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:47:35.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "InicioAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:45:29.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "ReporteProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx.cs",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteProductos.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:52:22.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "ReporteIngresos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:49:39.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "ReporteClientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx.cs",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteClientes.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:47:56.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "InicioAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx.cs",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\InicioAdmin.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:46:09.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "ReporteIngresos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx.cs",
+              "RelativeToolTip": "..\\..\\Front-End\\AdministracionDeVentasFrontEnd\\SoftWA\\Pantallas\\ReporteIngresos.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:50:06.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AgregarProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:26:31.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AgregarPedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:26:31.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReporteProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:02:46.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AgregarDetallePedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:26:31.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AgregarCliente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:25:39.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Web.config",
+              "RelativeDocumentMoniker": "SoftWA\\Web.config",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Web.config",
+              "RelativeToolTip": "SoftWA\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-19T22:02:06.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Web.Debug.config",
+              "RelativeDocumentMoniker": "SoftWA\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Web.Debug.config",
+              "RelativeToolTip": "SoftWA\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-19T22:03:09.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DetallePedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:26:30.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ListaAdministradores.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:26:31.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:26:31.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Web.config",
+              "RelativeDocumentMoniker": "SoftWA\\Web.config",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Web.config",
+              "RelativeToolTip": "SoftWA\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-19T20:14:39.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResumenDelPedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\ResumenDelPedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\ResumenDelPedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\ResumenDelPedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\ResumenDelPedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:58:39.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReporteProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:51.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegistrarUsuario.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:30.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EspecificacionesProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\EspecificacionesProducto.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\EspecificacionesProducto.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\EspecificacionesProducto.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\EspecificacionesProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:58:10.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RecuperarContrasena.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Productos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Productos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Productos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Productos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Productos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DireccionesGuardadas.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionesGuardadas.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DireccionesGuardadas.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionesGuardadas.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DireccionesGuardadas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:57:59.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ListaPedidos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DatosDePago.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DatosDePago.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DatosDePago.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DatosDePago.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DatosDePago.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:30.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "SiteAdmin.master",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EliminarProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ListaClientes.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EditarProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EditarPedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DetallePedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EliminarPedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ListaAdministradores.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AgregarPedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AgregarProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:29.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AgregarDetallePedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T21:26:30.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AgregarCliente.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:26:12.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AgregarDetallePedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:39:03.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EspecificacionesProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\EspecificacionesProducto.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\EspecificacionesProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\EspecificacionesProducto.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\EspecificacionesProducto.aspx.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:30:15.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Inicio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Inicio.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:02:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DatosDePago.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DatosDePago.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DatosDePago.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DatosDePago.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DatosDePago.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAywHUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:43:59.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AgregarCliente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:33:13.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Productos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Productos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Productos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Productos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Productos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T20:36:36.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PaginaMaster.Master",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\PaginaMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:23:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Inicio.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T09:27:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RegistrarUsuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RegistrarUsuario.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\RegistrarUsuario.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RegistrarUsuario.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\RegistrarUsuario.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:36:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ResumenDelPedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\ResumenDelPedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\ResumenDelPedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\ResumenDelPedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\ResumenDelPedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:37:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DireccionesGuardadas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionesGuardadas.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DireccionesGuardadas.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DireccionesGuardadas.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DireccionesGuardadas.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:52:27.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Productos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Productos.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Productos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Productos.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Productos.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:26:06.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RecuperarContrasena.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RecuperarContrasena.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\RecuperarContrasena.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RecuperarContrasena.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\RecuperarContrasena.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:39:43.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Carrito.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Carrito.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Carrito.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Carrito.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T20:33:32.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "EditarProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:01.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ReporteClientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:42:51.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ReporteIngresos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ReporteIngresos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T20:30:37.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ReporteIngresos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteIngresos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:42.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ReporteClientes.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:34.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ListaProductos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:25.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ListaProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ReporteProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:39:59.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ListaPedidos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:14.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ListaPedidos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:09.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ListaClientes.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:30:04.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ReporteClientes.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ReporteClientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:19:37.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ListaClientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:57.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ListaAdministradores.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:52.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ListaAdministradores.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ListaProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:57.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "InicioAdmin.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:41.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "InicioAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:36.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ListaPedidos.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaPedidos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:51.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "EliminarProducto.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:32.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "EliminarProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:26.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ListaClientes.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaClientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:46.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "EliminarPedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:15.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "EliminarPedido.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:14.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ListaAdministradores.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\ListaAdministradores.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:41.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "EditarProducto.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:29:10.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "InicioAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\InicioAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:35.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "EditarPedido.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:28:57.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "EditarPedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:28:52.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "EliminarProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "DetallePedido.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:28:46.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "DetallePedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:28:39.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "EliminarPedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EliminarPedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:21.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "AgregarProducto.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:28:15.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:25:42.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "EditarProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:17.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "AgregarProducto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:27:45.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "DetallePedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\DetallePedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:08.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "EditarPedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\EditarPedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:13.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "AgregarPedido.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:26:29.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:25:48.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:21:02.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "AgregarPedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:19:58.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "AgregarPedido.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.designer.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarPedido.aspx.designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:26:43.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "AgregarProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarProducto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:20:32.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\packages.config",
+              "RelativeDocumentMoniker": "SoftWA\\packages.config",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\packages.config",
+              "RelativeToolTip": "SoftWA\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-19T20:19:02.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "AgregarCliente.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarCliente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:19:31.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "AgregarDetallePedido.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Admin\\AgregarDetallePedido.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-19T19:19:53.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "SiteAdmin.master",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:43:52.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "Perfil.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Perfil.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Perfil.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Perfil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:16:54.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "Autentificacion.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\Autentificacion.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\Autentificacion.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\Autentificacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:19:53.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "SiteAdmin.master.cs",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master.cs",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master.cs",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master.cs",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\SiteAdmin.master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:44:33.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "Cabecera.master",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\Cabecera.master",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\MasterPages\\Cabecera.master",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\MasterPages\\Cabecera.master",
+              "RelativeToolTip": "SoftWA\\Pantallas\\MasterPages\\Cabecera.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T10:29:02.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "RegistrarUsuario.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\RegistrarUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:29:21.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "RecuperarContrasena.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\RecuperarContrasena.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-18T08:38:28.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "DatosDePago.aspx",
+              "DocumentMoniker": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DatosDePago.aspx",
+              "RelativeDocumentMoniker": "SoftWA\\Pantallas\\DatosDePago.aspx",
+              "ToolTip": "C:\\Users\\jeyso\\Downloads\\TA\\Front-End\\SoftWA\\Pantallas\\DatosDePago.aspx",
+              "RelativeToolTip": "SoftWA\\Pantallas\\DatosDePago.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-17T05:34:21.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

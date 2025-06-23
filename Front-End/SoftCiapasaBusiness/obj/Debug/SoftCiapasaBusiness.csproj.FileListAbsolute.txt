@@ -1,0 +1,23 @@
+C:\Users\jeyso\Downloads\Front-End\AdministracionDeVentasFrontEnd\SoftCiapasaBusiness\bin\Debug\SoftCiapasaBusiness.exe.config
+C:\Users\jeyso\Downloads\Front-End\AdministracionDeVentasFrontEnd\SoftCiapasaBusiness\bin\Debug\SoftCiapasaBusiness.exe
+C:\Users\jeyso\Downloads\Front-End\AdministracionDeVentasFrontEnd\SoftCiapasaBusiness\bin\Debug\SoftCiapasaBusiness.pdb
+C:\Users\jeyso\Downloads\Front-End\AdministracionDeVentasFrontEnd\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.AssemblyReference.cache
+C:\Users\jeyso\Downloads\Front-End\AdministracionDeVentasFrontEnd\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.CoreCompileInputs.cache
+C:\Users\jeyso\Downloads\Front-End\AdministracionDeVentasFrontEnd\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.exe
+C:\Users\jeyso\Downloads\Front-End\AdministracionDeVentasFrontEnd\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.pdb
+C:\Users\jeyso\Downloads\Front-End\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.AssemblyReference.cache
+C:\Users\jeyso\Downloads\Front-End\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.CoreCompileInputs.cache
+C:\Users\jeyso\Downloads\Front-End\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.exe
+C:\Users\jeyso\Downloads\Front-End\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.pdb
+C:\Users\JOHAR\Downloads\Front-End - ORDENADO\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.AssemblyReference.cache
+C:\Users\JOHAR\Downloads\Front-End - ORDENADO\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.exe.config
+C:\Users\JOHAR\Downloads\Front-End - ORDENADO\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.CoreCompileInputs.cache
+C:\Users\JOHAR\Downloads\Front-End - ORDENADO\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.exe
+C:\Users\JOHAR\Downloads\Front-End - ORDENADO\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.pdb
+C:\Users\jeyso\Downloads\TA\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.AssemblyReference.cache
+C:\Users\jeyso\Downloads\TA\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.csproj.CoreCompileInputs.cache
+C:\Users\jeyso\Downloads\TA\Front-End\SoftCiapasaBusiness\bin\Debug\SoftCiapasaBusiness.dll.config
+C:\Users\jeyso\Downloads\TA\Front-End\SoftCiapasaBusiness\bin\Debug\SoftCiapasaBusiness.dll
+C:\Users\jeyso\Downloads\TA\Front-End\SoftCiapasaBusiness\bin\Debug\SoftCiapasaBusiness.pdb
+C:\Users\jeyso\Downloads\TA\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.dll
+C:\Users\jeyso\Downloads\TA\Front-End\SoftCiapasaBusiness\obj\Debug\SoftCiapasaBusiness.pdb

@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F2F945C-1710-47BB-8D05-68AE540FA12B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SoftCiapasaBusiness</RootNamespace>
+    <AssemblyName>SoftCiapasaBusiness</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\ServiciosWSClient\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Pedidos\CarritoBO.cs" />
+    <Compile Include="Pedidos\ComprobanteBO.cs" />
+    <Compile Include="Pedidos\EnvioBO.cs" />
+    <Compile Include="Pedidos\ItemCarritoBO.cs" />
+    <Compile Include="Pedidos\PagoBO.cs" />
+    <Compile Include="Pedidos\PedidoBO.cs" />
+    <Compile Include="Pedidos\PedidoItemBO.cs" />
+    <Compile Include="Productos\PrecioPresentacionBO.cs" />
+    <Compile Include="Productos\ProductoBO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuarios\AdministradorBO.cs" />
+    <Compile Include="Usuarios\DireccionBO.cs" />
+    <Compile Include="Usuarios\JuridicaBO.cs" />
+    <Compile Include="Usuarios\NaturalBO.cs" />
+    <Compile Include="Usuarios\PersonaBO.cs" />
+    <Compile Include="Usuarios\RolBO.cs" />
+    <Compile Include="Usuarios\UsuarioBO.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Connected Services\ServiciosWSClient\Administrador.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Administrador.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Carrito.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Carrito.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Comprobante.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Comprobante.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Direccion.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Direccion.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Envio.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Envio.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\ItemCarrito.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\ItemCarrito.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Juridica.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Juridica.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Natural.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Natural.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Pago.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Pago.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Pedido.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Pedido.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\PedidoItem.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\PedidoItem.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Persona.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Persona.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\PrecioPresentacion.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\PrecioPresentacion.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Productos.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Productos.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Rol.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Rol.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.actualizarStockProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.administradorDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.autenticarUsuarioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.buscarPorEmailUsuarioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.buscarPrecioPresentacionPorTipoYCantidadResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.carritoDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.comprobanteDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.direccionDTO1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarAdministradorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarComprobanteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarDireccionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarEnvioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarItemCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarJuridicaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarNaturalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarPagoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarPedidoItemResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarPrecioPresentacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarRolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.eliminarUsuarioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.envioDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarAdministradorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarComprobanteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarDireccionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarEnvioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarItemCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarJuridicaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarNaturalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarPagoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarPedidoItemResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarPrecioPresentacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarRolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.insertarUsuarioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.itemCarritoDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.juridicaDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarCarritoInactivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarCarritoPersonaTodosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarCarritoPorPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarCarritoPorRangoFechaCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarCarritoPorRangoTotalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarCarritoPorUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobanteInactivoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobanteNumeroSerieResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobantePedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobantePedidosTodosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobantePorTipoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobanteRangoFechaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobanteRangoTotalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarComprobanteUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioDireccionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioEntregadosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioEstadoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioInactivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioPendientesResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioRangoFechaCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioRangoFechaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarEnvioUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarItemCarritoCantidadMinimaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarItemCarritoFechaCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarItemCarritoInactivoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarItemCarritoPorCarritoYProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarItemCarritoPorProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarItemCarritoRangoCantidadResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarItemCarritoRangoSubTotalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoInactivoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoPorEstadoYFechaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoPorMontoMinimoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoPorPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoPorPedidosTodosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoPorRangoMontoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoPorUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPagoRangoFechaPagoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoInactivoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoItemPorPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoItemPorPedidoTodosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoItemPorPedidoYProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoItemPorProductoTodosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoItemPorRangoCantidadResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoItemPorRangoPrecioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoItemPorUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoPorEstadoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoPorEstadoYFechaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoPorFechaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoPorPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoPorPersonaYEstadoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoPorRangoTotalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPedidoPorUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPersonasActivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPersonasInactivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPorApellidoPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPorFechasPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPorGeneroNaturalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPorNombreApellidoParcialPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPorNombreParcialPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPorRolUsuarioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPorUsuarioCreacionPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionInactivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionPorPrecioMaximoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionPorProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionPorProductoTodosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionPorRangoCantidadResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionPorRangoPrecioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionPorTipoMedidaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarPrecioPresentacionPorUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosInactivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPaginadoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorCategoriaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorDescripcionParcialResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorNombreResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorNombreYPrecioMaximoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorRangoFechaCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorRangoPrecioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorRangoStockResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorStockMinimoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosPorUsuarioCreacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarProductosSinStockResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosAdministradorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosComprobanteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosDireccionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosEnvioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosItemCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosJuridicaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosNaturalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosPagoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosPedidoItemResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosPrecioPresentacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosRolesResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarTodosUsuariosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.listarUltimosActualizadosPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarAdministradorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarComprobanteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarDireccionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarEnvioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarItemCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarJuridicaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarNaturalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarPagoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarPedidoItemResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarPrecioPresentacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarRolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.modificarUsuarioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.naturalDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorDniNaturalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdAdministradorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdComprobanteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdDireccionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdEnvioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdItemCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdJuridicaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdNaturalResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdPagoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdPedidoItemResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdPedidoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdPrecioPresentacionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdProductoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdRolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorIdUsuarioResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorRucJuridicaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.obtenerPorTelefonoPersonaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.pagoDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.pedidoDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.pedidoItemDTO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.personaDTO1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.precioPresentacionDTO1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.productoDTO1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.rolDTO1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.usuarioDTO1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\SoftCiapasaBusiness.ServiciosWSClient.vaciarCarritoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiciosWSClient\Usuario.wsdl" />
+    <None Include="Connected Services\ServiciosWSClient\Usuario.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiciosWSClient\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiciosWSClient\servicios.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiciosWSClient\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiciosWSClient\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiciosWSClient\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
